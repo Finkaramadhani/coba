@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+.container-main {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.warna {
+    color: blue;
+}
+
+.ukuran-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.tulisan-menu {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.menu-kontak {
+    background: #16213E;
+    color: aliceblue;
+    border-radius: 10px;
+    margin-right: 0px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.container-title {
+    width: 650px;
+    background: rgb(3, 3, 85);
+    height: 350px;
+    margin-top: 30px;
+}
+.container-title2 {
+    display: flex;
+    align-items: center;
+
+}
+
+.container-text{
+    padding: 80px;
+}
+
+.title{
+color: white;
+text-align: left;
+}
+
+.content{
+    color: white;
+}
+
+.search-input{
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+.gambar{
+    width: 600px;
+    height: 350px; 
+    margin-top: 30px;
+
+}
+
+.berita{
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.garis{
+   background: yellow;
+   width: 100px;
+   height: 3px; 
+}
+
+.container-card-info{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    align-content: space-between;
+}
+.card-info-category{
+    background: rgb(218, 59, 1);
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+}
+
+.card-info-date{
+    width: 100%;
+    text-align: right;
+    color: navy;
+}
+
+.jarak-atas{
+    margin-top: 40px;
+}
+
+.btn-main{
+margin-top: 30px;
+background: navy;
+border-radius: 5px;
+border: none !important;
+padding: 10px;
+color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.garis-galeri{
+    background: yellow;
+   width: 100px;
+   height: 3px; 
+}
+
+.galeri{
+    font-weight: bold;
+}
+
+.foto-galeri{
+    width: 400px;
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.footer{
+    background: navy;
+    color: white;
+    text-align: center;
+    font-size: small;
+    padding: 20px;
+}
