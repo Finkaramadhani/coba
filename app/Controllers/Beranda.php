@@ -2,10 +2,10 @@
 
 namespace App\Controllers;
 
-class Header extends BaseController
+class Beranda extends BaseController
 {
     public function index()
     {
-        return view('header');
+        return view('beranda');
     }
 }

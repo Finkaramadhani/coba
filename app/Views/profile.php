@@ -53,9 +53,8 @@
                 <div class="container-title2">
                     <div class="container-title">
                         <div class="container-text">
-                            <h1 class="title">Hallo, Selamat Datang Di UKM Bidang Seni</h1>
-                            <p class="content">Ini isinya...</p>
-                            <input type="text" class="search-input" placeholder="cari">
+                            <h3>Profil,</h3>
+                            <h1>UKM Bidang Seni</h1>
                         </div>
                     </div>
                     <img class="gambar" src="https://cdn3.vectorstock.com/i/1000x1000/76/32/doodle-seamless-background-school-pattern-vector-21587632.jpg">
@@ -72,8 +71,33 @@
             <div class="col-8">
                 <h5 class="text-visi">Visi</h5>
                 <p>Menjadi politeknik yang bermutu, inovatif, dan unggul dalam ilmu pengetahuan dan teknologi terapan</p>
+                <h5 class="text-visi">Misi</h5>
+               <ol>
+                <li>Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan kompetitif;</li>
+                <li>Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran;</li>
+                <li>Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan;</li>
+                <li>Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter dan beretika;</li>
+                <li>Menjalin kerjasama secara berkelanjutan dengan pihak lain</li>
+               </ol>
             </div>
             <div class="col-4">
+            <h5 class="text-pengumuman">Pengumuman</h5>
+                <div class="container-pengumuman">
+                    <p class="text-content-pengumuman">Lorem ipsum</p>
+                    <span class="text-small">Agustus 24, 2022</span>
+                </div>
+                <div class="container-pengumuman">
+                    <p class="text-content-pengumuman">Lorem ipsum</p>
+                    <span class="text-small">Agustus 24, 2022</span>
+                </div>
 
+                <h5 class="text-berita-populer">Berita Populer</h5>
+                <div class="container-berita-populer">
+                    <p class="text-content-berita-populer">Lorem ipsum</p>
+                    <span class="text-small">Agustus 24, 2022</span>
+                </div>
+                <div class="container-berita-populer">
+                    <p class="text-content-berita-populer">Lorem ipsum</p>
+                    <span class="text-small">Agustus 24, 2022</span>
             </div>
         </div>

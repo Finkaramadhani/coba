@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="beranda.css">
 
 </head>
 
@@ -119,32 +119,30 @@
                 <h3 class="galeri">Galeri</h3>
                 <div class="garis-galeri"></div>
             </div>
-            <div class="row">
-                <div class="col-4">
-                    <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
-                </div>
-                <div class="col-4">
-                    <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
-                </div>
-                <div class="col-4">
-                    <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
-                </div>
+            <div class="col-4">
+                <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
+            </div>
+            <div class="col-4">
+                <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
+            </div>
+            <div class="col-4">
+                <img class="foto-galeri" src="https://cdn1-production-images-kly.akamaized.net/R17oSA8pk7wUqHoqTtC2J_x7JBY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3367898/original/038574900_1612405764-timon-klauser-3MAmj1ZKSZA-unsplash.jpg">
             </div>
         </div>
         <div class="row">
             <div class="col-6">
-                <video width="500" controls>
-                    <source src="https://youtu.be/WvZ3fCd-GNU" type="video" />
+                <iframe class="youtube" width="100%" height="400px" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+                </iframe>
             </div>
             <div class="col-6">
-                <video width="500" controls>
-                    <source src="https://youtu.be/WvZ3fCd-GNU" type="video" />
+                <iframe class="youtube" width="100%" height="400px" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+                </iframe>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-12">
-            <h4 class="footer">2022 UKM Bidang Seni, Politeknik Negeri Lampung</h4>
+            <h4 class="footer">2022 <span class="text-yellow">UKM Bidang Seni,</span> Politeknik Negeri Lampung</h4>
         </div>
     </div>
     </div>

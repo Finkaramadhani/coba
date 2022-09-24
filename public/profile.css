@@ -9,7 +9,7 @@ body{
 }
 
 .warna {
-    color: blue;
+    color: #003B71;
 }
 
 .ukuran-logo {
@@ -46,6 +46,7 @@ body{
 
 .container-text{
     padding: 80px;
+    color: white;
 }
 
 .title{
@@ -144,4 +145,46 @@ color: white;
     text-align: center;
     font-size: small;
     padding: 20px;
+}
+
+.text-visi {
+    border-bottom: 1px solid #DEDEDE;
+    margin-top: 30px;
+    font-weight: bold;
+    padding-bottom: 10px
+}
+.text-pengumuman {
+    border-bottom: 2px solid #ffb703;
+    margin-top: 30px;
+    width: 128px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+
+}
+
+ol{
+    padding-left: 10px;
+}
+
+.text-small {
+    font-size: 10px;
+    color: rgb(188, 188, 188);
+}
+
+.text-content-pengumuman {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.container-pengumuman {
+    border-top: 1px solid #DEDEDE;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+.container-berita-populer {
+    border-top: 1px solid #DEDEDE;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #DEDEDE;
 }
